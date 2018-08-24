@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Istikhara</string>
+    <string name="dua_al_istikhara">اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلاَ أَقْدِرُ وَتَعْلَمُ وَلاَ أَعْلَمُ وَأَنْتَ عَلاَّمُ الْغُيُوبِ، اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الأَمْرَ ‭<i>[mention decision here]‬</i> خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ، وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ، وَاقْدُرْ لِي الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ</string>
+    <string name="istikhara_title">Dua Al-Istikhara:</string>
+    <string name="istikhara_description">Istikhāra (Seeking Goodness) : To seek blessings and guidance from Allāh ﷻ for a decision</string>
+    <string name="transliteration">Allāhumma innī astakhīruka biʿilmika wa astaqdiruka biqudratika, wa asʾaluka min faḍlika (a)l-ʿaẓīm fainnaka taqdiru walā aqdiru wa taʿlamu wala aʿlamu wa anta ʿallāmu (a)l-ghuyūb. Allāhumma, in kunta taʿlamu anna hadha (a)l-amra <i>[mention decision here]</i> khayrun lī fī dīnī wa maʿāshī waʿāqibati amrī faqdurhu lī wa ya (a)s-sirhu lī thumma barik lī fīhi. Wa in kunta taʿlamu anna hadha (a)l-amra sharrun lī fī dīnī wa maʿāshī wa ʿāqibati amri faṣrifhu ʿannī wa (a)ṣrifni ʿanhu waqdir lī(ya) (a)l-khayra haythu kāna thumma arḍīnī bihi.</string>
+    <string name="dua_header">Dua Al-Istikhara:</string>
+    <string name="transliteration_header">Transliteration:</string>
+    <string name="translation_header">Translation:</string>
+    <string name="translation_text">Dear God, I’m asking You for goodness through Your [Infinite] Knowledge, and I’m asking You for strength through Your Divine Ability, and I’m asking You from Your Infinite Grace. Because You’re completely able to do, while I simply cannot. You know everything, and I do not, and You know everything that’s unseen. Dear God, if You know that this decision <i>[mention decision here]</i> is good for me in terms of my religiosity, my worldly life, and afterlife, then decree it, facilitate it for me with ease, and bless me through it. But if You know that this has bad consequences on my religiosity, my worldly life, and afterlife, then get it away from me and get me away from it, and [instead of that] decree what’s better for me, whatever it may be, and make me content with it.</string>
+    <string name="FAQ_Button">FAQ</string>
+    <string name="steps">1) Make Intention for Istikhāra \n\n2) Pray two Rakaʿāt of Prayer  \n\n3) Recite the duʿāʾ of istikhāra and mention your need</string>
+    <string name="details_button">Details</string>
+    <string name="menu_button">Transliteration: (Tap to show)</string>
+    <string name="collapsed_contents">Allāhumma innī astakhīruka biʿilmika wa astaqdiruka biqudratika, wa asʾaluka min faḍlika (a)l-ʿaẓīm fainnaka taqdiru walā aqdiru wa taʿlamu wala aʿlamu wa anta ʿallāmu (a)l-ghuyūb. Allāhumma, in kunta taʿlamu anna hadha (a)l-amra <i>[mention decision here]</i> khayrun lī fī dīnī wa maʿāshī waʿāqibati amrī faqdurhu lī wa ya (a)s-sirhu lī thumma barik lī fīhi. Wa in kunta taʿlamu anna hadha (a)l-amra sharrun lī fī dīnī wa maʿāshī wa ʿāqibati amri faṣrifhu ʿannī wa (a)ṣrifni ʿanhu waqdir lī(ya) (a)l-khayra haythu kāna thumma arḍīnī bihi.</string>
+    <string name="faq_contents"><b>1. What if I still can\'t make a decision?</b>
+        \n\nThen know that God simply hasn’t placed that inclination in your heart yet. This could be a sign that God ﷻ wants you to keep begging Him and asking Him for His Divine Help and Assistance in this process. Keep making duʿāʾ. But never lose hope. Even if you asked a thousand times with no response, that’s no reason to stop asking.
+        \n\n\n<b>2. Can I pray istikhāra for someone else?</b>
+        \n\nThere is no precedent for this. It\'s supposed to be done by the one seeking the decision.
+        \n\n\n<b>3. What if I\'m not very practicing and don\'t feel like my du\'a will be answered?</b>
+        \n\nAllāh is accessible to all. Even the greatest sinner can turn back and ask Allāh. This is a sign of your sincerity and trust in Allāh.
+        \n\n\n<b>4. What if the decision affects more than just me?</b>
+        \n\nThen everyone involved should all be praying their own istikhāra.
+        \n\n\n<b>5. Can I pray istikhāra even if I\'m already confident in my decision?</b>
+        \n\nYes, because it\'ll increase the blessings in your actions. The companions [rḍA] would make istikhāra even for simple everyday things.
+        \n\n\n<b>6. Can I recite the du’a without praying the two rakaʿāt?</b>
+        \n\nJust the duʿāʾ [supplication] is sufficient. The Prophet ﷺ explicitly said to perform the two rakaʿāt, however you may recite the duʿāʾ by itself if it’s something you choose to constantly do, or if you have an immediate decision. So for a sister who is currently not praying, it is completely valid and acceptable for her to only make this duʿāʾ without the physical prayer.
+        \n\n\n<b>7. What if I can’t read Arabic? I’m new/returning to Islamic practice and have real trouble pronouncing this du’a.</b>
+        \n\nSay the duʿāʾ in English and know that Allāh understands your prayers to Him no matter what language it’s in. — And as always, pray to God from your heart. God wants to know that you are truly and sincerely begging Him and Him alone. If that’s best conveyed in a language other than Arabic, then sobeit.
+        \n\n\n<b>8. If Allāh understands all languages and du’as, then why should I recite this in Arabic?</b>
+        \n\nBecause The Prophet ﷺ is the one who taught us this duʿāʾ and just by uttering the very words he ﷺ uttered, we get extra blessings. Additionally, his amazing companions [rḍA] would say that The Prophet ﷺ taught them this duʿāʾ like he ﷺ taught them parts of The Qurʾān.
+        \n\n\n<b>9. I made a decision without performing istikhāra. Am I doomed?</b>
+        \n\nNo. Istikhāra is the slave’s way of begging his Lord for blessings in his decision, but his Lord is far too Generous to make His Blessings dependent upon the actions of His slave.
+        \n\n\n<b>10. Is there a maximum number of times that this can be performed for one particular decision?</b>
+        \n\nThe Prophet ﷺ didn’t specify a number for us. So whether it’s once or a thousands times is all based on the individual. If you still haven’t felt an inclination towards a decision, keep asking. If you did feel an inclination, know that that is from God and accept it. There is no need to keep asking to be “sure” of the istikhāra.
+    </string>
+    <string name="back_button">BACK</string>
+    <string name="overview_header">Overview</string>
+    <string name="overview_subheader">Istikhāra literally means \"to seek that which is good\" and is the third part of a 3-step decision making process:</string>
+    <string name="overview_content">1. <i>Preparation</i> - Use your own rationale and assess your circumstances. Do your own research.
+        \n\n2. <i>Istishāra (seek advice)</i> - Ask someone of experience and knowledge in the topic you\'re looking for guidance on.
+        \n\n3. <i>Istikhāra (seek goodness)</i> - Maybe you\'ve narrowed it down, but are conflicted in making your final decision. You want confidence and clarity, and this is where istikhāra finally comes into play.</string>
+    <string name="details_istikhara_prayer_header">Istikhāra Prayer</string>
+    <string name="prerequisites">Prerequisites</string>
+    <string name="prerequisites_content">- Same prerequisites as for any other prayer.
+        \n- No other requirements. (ex. No special bath or time of day)</string>
+    <string name="how_header">How</string>
+    <string name="how_content">Pray two rakaʿāt of voluntary prayer (any prayer outside the five obligatory ones) and recite any Surahs you\'d like after Fatiha in each rakah as there are no Surahs specifed by The Prophet ﷺ. Once you finish - ie, you say your salām for the prayer - recite the duʿāʾ (prayer) of istikhāra in Arabic as recommended to us by the Prophet ﷺ and then explicitly state your need in any language you\'d like. If you don\'t have it memorized, read it off a paper or your phone. If you can’t read Arabic, read the transliteration. No extra duʿāʾ afterwards is required.</string>
+    <string name="outcome_header">Outcome</string>
+    <string name="outcome_content">You will NOT necessarily see a dream/vision/sign/etc. Allāh ﷻ will place a bit of inclination in your heart towards going through with the action or not.</string>
+    <string name="conclusion_header">Conclusion</string>
+    <string name="conclusion_content">Istikhāra is a natural process. Don\'t expect anything otherworldly. All istikhāra ensures is that you have the blessings of Allāh backing your choice. There is no istikhāra for Ḥarām actions (ex. Should I drink this alcohol?) or obligatory actions (ex. Should I pray ʿĪshāʾ today?). Do not regret your decision afterwards as doing so would be to regret and doubt in Allāh\'s guidance. Even if your decision \"doesn\'t work out\" how you envisioned, know that it was better for you and that there are blessings in it even if you can\'t see them yet.</string>
+    <string name="dua_button">Dua</string>
+</resources>

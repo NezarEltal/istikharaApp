@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="FAQ"/>
+        <!--android:icon="@drawable/ic_home_black"-->
+
+    <item
+        android:id="@+id/menu_search"
+        android:title="Dua"/>
+        <!--android:icon="@drawable/ic_search_black"-->
+
+
+    <item
+        android:id="@+id/menu_notifications"
+        android:title="Details"/>
+
+    <item
+        android:id="@+id/menu_sources"
+        android:title="Sources and Resources"/>
+        <!--android:icon="@drawable/ic_notifications_black" />-->
+</menu>
