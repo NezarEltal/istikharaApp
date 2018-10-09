@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    /** Function to send user to Deatils.java */
     public void changeToDetailsActivity(View view) {
         if (previous_location != null && previous_location.equals("details")){
             finish();
@@ -60,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * onClick handler
+     * shows or hides transliteration text
      */
     public void toggle_contents(View v){
         TextView tv1 = (TextView)findViewById(R.id.transliteration_title);
