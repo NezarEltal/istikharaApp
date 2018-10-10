@@ -25,13 +25,23 @@ public class FAQ extends AppCompatActivity {
         finish();
     }
 
-    public void zoom(View view){
-        TextView tv =  findViewById(R.id.textView);
-        TextView title = findViewById(R.id.FAQ_title);
+    public void zoom_in(View view){
+        TextView tv;
+        tv = findViewById(R.id.textView);
         float tv_size = tv.getTextSize();
 
 
         tv_size += 10;
+
+        tv.setTextSize(TypedValue.COMPLEX_UNIT_PX, tv_size);
+    }
+
+    public void zoom_out(View view){
+        TextView tv =  findViewById(R.id.textView);
+        float tv_size = tv.getTextSize();
+
+
+        tv_size -= 10;
 
         tv.setTextSize(TypedValue.COMPLEX_UNIT_PX, tv_size);
     }
