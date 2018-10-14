@@ -46,7 +46,7 @@ public class Details extends AppCompatActivity {
     }
 
     public void zoom_in(View view){
-        TextView[] tv = new TextView[12];
+        TextView[] tv = new TextView[13];
         tv[0] = findViewById(R.id.overview_header);
         tv[1] = findViewById(R.id.overview_subheader);
         tv[2] = findViewById(R.id.overview_content);
@@ -59,6 +59,7 @@ public class Details extends AppCompatActivity {
         tv[9] = findViewById(R.id.outcome_content);
         tv[10] = findViewById(R.id.conclusion_header);
         tv[11] = findViewById(R.id.conclusion_content);
+        tv[12] = findViewById(R.id.steps);
 
 
         for (int i = 0; i < tv.length; i++){
@@ -81,7 +82,7 @@ public class Details extends AppCompatActivity {
         }
 
         else{
-            TextView[] tv = new TextView[12];
+            TextView[] tv = new TextView[13];
             tv[0] = findViewById(R.id.overview_header);
             tv[1] = findViewById(R.id.overview_subheader);
             tv[2] = findViewById(R.id.overview_content);
@@ -94,6 +95,7 @@ public class Details extends AppCompatActivity {
             tv[9] = findViewById(R.id.outcome_content);
             tv[10] = findViewById(R.id.conclusion_header);
             tv[11] = findViewById(R.id.conclusion_content);
+            tv[12] = findViewById(R.id.steps);
 
 
             for (int i = 0; i < tv.length; i++){
