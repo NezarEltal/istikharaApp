@@ -100,7 +100,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/overview_subheader" />
 
             <TextView
-                android:id="@+id/isitkhara_prayer_header"
+                android:id="@+id/istikhara_prayer_header"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="16dp"
@@ -128,7 +128,7 @@
                 android:textSize="24sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/isitkhara_prayer_header" />
+                app:layout_constraintTop_toBottomOf="@+id/istikhara_prayer_header" />
 
             <TextView
                 android:id="@+id/prerequisites_content"
@@ -246,8 +246,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="32dp"
-                android:layout_marginLeft="32dp"
-                android:layout_marginStart="32dp"
+                android:layout_marginLeft="64dp"
+                android:layout_marginStart="64dp"
+
                 android:layout_marginTop="32dp"
                 android:onClick="changeToMainActivity"
                 android:text="@string/dua_button"
@@ -255,7 +256,7 @@
                 android:textSize="18sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/conclusion_content" />
+                app:layout_constraintTop_toBottomOf="@+id/zoom_in_btn" />
 
             <Button
                 android:id="@+id/faq_button"
@@ -265,8 +266,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="32dp"
-                android:layout_marginEnd="32dp"
-                android:layout_marginRight="32dp"
+                android:layout_marginEnd="52dp"
+                android:layout_marginRight="52dp"
                 android:layout_marginTop="32dp"
                 android:onClick="changeToFAQActivity"
                 android:text="@string/FAQ_Button"
@@ -274,6 +275,40 @@
                 android:textSize="18sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/zoom_in_btn" />
+
+            <Button
+                android:id="@+id/zoom_in_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="100dp"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/rounded_button"
+                android:onClick="zoom_in"
+                android:text="Zoom In"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/conclusion_content" />
+
+            <Button
+                android:id="@+id/zoom_out_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="100dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="100dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/rounded_button"
+                android:onClick="zoom_out"
+                android:text="Zoom Out"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toEndOf="@+id/zoom_in_btn"
                 app:layout_constraintTop_toBottomOf="@+id/conclusion_content" />
         </android.support.constraint.ConstraintLayout>
     </ScrollView>
