@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
 
         float size = ((TextView) findViewById(R.id.dua_al_istikhara)).getTextSize();
         if (size <= 30){
-            Toast.makeText(getApplicationContext(), "Can't zoom out any further",
+            Toast.makeText(getApplicationContext(), R.string.zoom_out_error,
                     Toast.LENGTH_SHORT).show();
         }
 

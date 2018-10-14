@@ -40,7 +40,7 @@ public class FAQ extends AppCompatActivity {
     public void zoom_out(View view){
 
         if (((TextView) findViewById(R.id.textView)).getTextSize() <= 30){
-            Toast.makeText(getApplicationContext(), "Can't zoom out any further",
+            Toast.makeText(getApplicationContext(), R.string.zoom_out_error,
                     Toast.LENGTH_SHORT).show();
         }
         else{
