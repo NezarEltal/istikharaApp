@@ -7,6 +7,7 @@ import android.util.Log;
 import android.util.TypedValue;
 import android.view.View;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class FAQ extends AppCompatActivity {
     public String previous_location = "";
@@ -37,13 +38,21 @@ public class FAQ extends AppCompatActivity {
     }
 
     public void zoom_out(View view){
-        TextView tv =  findViewById(R.id.textView);
-        float tv_size = tv.getTextSize();
+
+        if (((TextView) findViewById(R.id.textView)).getTextSize() <= 30){
+            Toast.makeText(getApplicationContext(), "Can't zoom out any further",
+                    Toast.LENGTH_SHORT).show();
+        }
+        else{
+            TextView tv =  findViewById(R.id.textView);
+            float tv_size = tv.getTextSize();
 
 
-        tv_size -= 10;
+            tv_size -= 10;
 
-        tv.setTextSize(TypedValue.COMPLEX_UNIT_PX, tv_size);
+            tv.setTextSize(TypedValue.COMPLEX_UNIT_PX, tv_size);
+        }
+
     }
 
     public void changeToMainActivity(View view){
