@@ -51,4 +51,6 @@
     <string name="dua_button">Dua</string>
     <string name="app_name">Istikhara</string>
     <string name="istikhara_title">Dua Al-Istikhara</string>
+    <string name="zoom_in_text">ZOOM IN</string>
+    <string name="zoom_out_text">ZOOM OUT</string>
 </resources>
