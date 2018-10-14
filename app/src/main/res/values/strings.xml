@@ -35,9 +35,6 @@
     <string name="back_button">BACK</string>
     <string name="overview_header">Overview</string>
     <string name="overview_subheader">Istikhāra literally means \"to seek that which is good\" and is the third part of a 3-step decision making process:</string>
-    <string name="overview_content">1. <i>Preparation</i> - Use your own rationale and assess your circumstances. Do your own research.
-        \n\n2. <i>Istishāra (seek advice)</i> - Ask someone of experience and knowledge in the topic you\'re looking for guidance on.
-        \n\n3. <i>Istikhāra (seek goodness)</i> - Maybe you\'ve narrowed it down, but are conflicted in making your final decision. You want confidence and clarity, and this is where istikhāra finally comes into play.</string>
     <string name="details_istikhara_prayer_header">Istikhāra Prayer</string>
     <string name="prerequisites">Prerequisites</string>
     <string name="prerequisites_content">- Same prerequisites as for any other prayer.
@@ -53,4 +50,7 @@
     <string name="istikhara_title">Dua Al-Istikhara</string>
     <string name="zoom_in_text">ZOOM IN</string>
     <string name="zoom_out_text">ZOOM OUT</string>
+    <string name="overview_content">1. <i>Preparation</i> - Use your own rationale and assess your circumstances. Do your own research.         \\n\\n2. <i>Istishāra (seek advice)</i> - Ask someone of experience and knowledge in the topic you\\\'re looking for guidance on.         \\n\\n3. <i>Istikhāra (seek goodness)</i> - Maybe you\\\'ve narrowed it down, but are conflicted in making your final decision. You want confidence and clarity, and this is where istikhāra finally comes into play.</string>
+    <string name="menu_button_hide">Transliteration: (tap to hide)</string>
+    <string name="zoom_out_error">Can\'t zoom out any further</string>
 </resources>
