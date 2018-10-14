@@ -1,4 +1,6 @@
 # Istikhara App
-Istikhara.com App
+Istikhara.com App w/ zoom buttons
 
-Currently only in it's first working version. Working on adding audio.
+This is the first update. This branch is not intended to be touched unless we're reverting to old updates for any reason.
+
+This contains the original App, plus the added buttons.
