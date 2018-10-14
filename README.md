@@ -1,4 +1,6 @@
 # Istikhara App
 Istikhara.com App
 
-Currently only in it's first working version. Working on adding audio.
+This branch contains the version currently available on Google Play.
+
+Currently in version 1.1. Working on adding audio.
