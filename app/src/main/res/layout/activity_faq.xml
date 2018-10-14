@@ -63,8 +63,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="32dp"
-                android:layout_marginLeft="52dp"
-                android:layout_marginStart="52dp"
+                android:layout_marginLeft="64dp"
+                android:layout_marginStart="64dp"
                 android:layout_marginTop="32dp"
                 android:onClick="changeToMainActivity"
                 android:text="@string/dua_button"
@@ -72,8 +72,7 @@
                 android:textSize="18sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/textView"
-                app:layout_constraintVertical_bias="0.64" />
+                app:layout_constraintTop_toBottomOf="@+id/zoom_in" />
 
             <Button
                 android:id="@+id/details_button"
@@ -83,10 +82,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="32dp"
-                android:layout_marginEnd="40dp"
-                android:layout_marginLeft="32dp"
-                android:layout_marginRight="40dp"
-                android:layout_marginStart="32dp"
+                android:layout_marginEnd="52dp"
+                android:layout_marginRight="52dp"
                 android:layout_marginTop="32dp"
                 android:onClick="changeToDetailsActivity"
                 android:text="@string/details_button"
@@ -94,16 +91,13 @@
                 android:textSize="18sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toEndOf="@+id/dua_button"
-                app:layout_constraintTop_toBottomOf="@+id/textView"
-                app:layout_constraintVertical_bias="0.666" />
+                app:layout_constraintTop_toBottomOf="@+id/zoom_in" />
 
             <Button
 
                 android:id="@+id/zoom_in"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="24dp"
                 android:layout_marginLeft="100dp"
                 android:layout_marginStart="100dp"
                 android:layout_marginTop="16dp"
@@ -112,17 +106,14 @@
                 android:text="Zoom In"
                 android:textSize="14sp"
                 android:textStyle="bold"
-                app:layout_constraintBottom_toTopOf="@+id/dua_button"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/textView"
-                app:layout_constraintVertical_bias="0.0" />
+                app:layout_constraintTop_toBottomOf="@+id/textView" />
 
             <Button
 
-                android:id="@+id/button2"
+                android:id="@+id/zoom_out"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="24dp"
                 android:layout_marginEnd="100dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="100dp"
@@ -133,11 +124,10 @@
                 android:text="Zoom Out"
                 android:textSize="14sp"
                 android:textStyle="bold"
-                app:layout_constraintBottom_toTopOf="@+id/dua_button"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
                 app:layout_constraintStart_toEndOf="@+id/zoom_in"
-                app:layout_constraintTop_toBottomOf="@+id/textView"
-                app:layout_constraintVertical_bias="0.0" />
+                app:layout_constraintTop_toBottomOf="@+id/textView" />
 
         </android.support.constraint.ConstraintLayout>
     </ScrollView>
