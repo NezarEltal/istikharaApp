@@ -29,10 +29,11 @@
     <string name="conclusion_header">Kesimpulan</string>
     <string name="conclusion_content">Istikharah merupakan suatu proses semulajadi. Jangan mengharapkan sesuatu yang luar biasa. Istikharah hanya memastikan bahawa kita mendapat keberkatan daripada Allah, menyokong pilihan kita. Istikharah itu tidak ujud bagi perbuatan Haram (contoh, meminum arak) atau perkara fardhu (contoh, solat isya’). Janganlah menyesali keputusan kita selepasnya, kerana ia bermaksud menyesali dan meragui petunjuk Allah. Walaupun keputusan kita mungkin membuahkan hasil seperti yang kita harapkan, ketahuilah bahawa itu adalah yang terbaik bagi kita dan di situ terdapat keberkatan padanya, meskipun kita tidak dapat melihatnya.</string>
     <string name="dua_button">Doa</string>
-    <string name="zoom_in_text">"mengezum masuk "</string>
+    <string name="zoom_in_text">ZUM MASUK</string>
     <string name="zoom_out_text">"zum keluar "</string>
-    <string name="menu_button_hide">Transliterasi: (ketik untuk bersembunyi)</string>
-    <string name="zoom_out_error">Tidak boleh zum keluar</string>
+    <string name="menu_button_hide">Transliterasi: (tap untuk sorok)</string>
+    <string name="zoom_out_error">Tidak dapat diperbesarkan lagi</string>
+
 
 
 </resources>
