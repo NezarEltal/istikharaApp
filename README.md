@@ -1,6 +1,6 @@
 # Istikhara App
 Istikhara.com App
 
-This branch contains the version currently available on Google Play.
+This branch contains third version of the app, with the audio working and Malay translation.
 
-Currently in version 1.2 with Audio and translation in Malay.
+On Google Play, it would appear as version 1.2.
